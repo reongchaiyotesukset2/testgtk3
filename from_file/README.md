@@ -1,0 +1,1 @@
+The method for creating a GTK 3.0 form using hardcoding combined with the from_string method, which loads a $.ui$ file (user interface definition), and then utilizing the $object$ method to retrieve/access widgets defined within that $.ui$ file.

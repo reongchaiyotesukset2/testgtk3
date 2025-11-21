@@ -1,0 +1,1 @@
+The method for creating a GTK 3.0 form (or GUI) using a hardcoded from_string method, which involves calling a UI file, and utilizing the get_object method to retrieve values/widgets from the UI definition."
